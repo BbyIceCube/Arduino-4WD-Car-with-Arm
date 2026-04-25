@@ -1,0 +1,16 @@
+Here are the components
+
+-Dc to Dc step down buck converter
+-L298N Motor driver
+-4x Gear motors
+-4x Servo motors
+-2x 3.7V Lithium ion Batteries for car
+-4x 1.5V AAA Batteries for Arm 
+-Ultrasonic Sensor
+-HC-05 Bluetooth module
+-Arduino UNO
+
+-I've done this project as a leader of 20 members group with 2 co-leader. And this is my first project of University. 
+
+-As a 1st yr student, there was a problem while I was doning it. The power supply was not enough to run 4x gear motors and 4x servo motors, but I fixed it on the last day. 
+
